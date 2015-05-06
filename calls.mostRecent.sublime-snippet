@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[calls.mostRecent()]]>
+	</content>
+	<tabTrigger><![CDATA[calls.mostRecent]]></tabTrigger>
+	<scope>source.js</scope>
+	<description>{spy}.calls.mostRecent</description>
+</snippet>

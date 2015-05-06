@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[calls.reset()]]>
+	</content>
+	<tabTrigger><![CDATA[calls.reset]]></tabTrigger>
+	<scope>source.js</scope>
+	<description>{spy}.calls.reset</description>
+</snippet>

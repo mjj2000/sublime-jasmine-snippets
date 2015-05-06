@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[toBeLessThan($1);$0]]>
+	</content>
+	<tabTrigger><![CDATA[toBeLessThan]]></tabTrigger>
+	<scope>source.js</scope>
+	<description>toBeLessThan</description>
+</snippet>

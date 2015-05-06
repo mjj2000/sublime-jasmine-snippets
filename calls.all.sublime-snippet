@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[calls.all()]]>
+	</content>
+	<tabTrigger><![CDATA[calls.all]]></tabTrigger>
+	<scope>source.js</scope>
+	<description>{spy}.calls.all</description>
+</snippet>

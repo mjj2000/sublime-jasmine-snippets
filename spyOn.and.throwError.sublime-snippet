@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[and.callFake('${1:error}');$0]]></content>
+	<tabTrigger><![CDATA[and.callFake]]></tabTrigger>
+	<scope>source.js</scope>
+	<description>spyOn.and.callFake</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[toBeCloseTo(${1:number}, ${2:delta});$0]]>
+	</content>
+	<tabTrigger><![CDATA[toBeCloseTo]]></tabTrigger>
+	<scope>source.js</scope>
+	<description>toBeCloseTo</description>
+</snippet>

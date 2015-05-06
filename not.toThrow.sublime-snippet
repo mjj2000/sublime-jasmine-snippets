@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[not.toThrow();$0]]>
+	</content>
+	<tabTrigger><![CDATA[not.toThrow]]></tabTrigger>
+	<scope>source.js</scope>
+	<description>not.toThrow</description>
+</snippet>

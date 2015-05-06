@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[not.toBe($2);$0]]>
+	</content>
+	<tabTrigger><![CDATA[not.toBe]]></tabTrigger>
+	<scope>source.js</scope>
+	<description>not.toBe</description>
+</snippet>
